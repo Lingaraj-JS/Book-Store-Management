@@ -4,5 +4,3 @@ This is my first self made simple project done by using Bootstrap5,Thymeleaf,Spr
 And this my first repository
 
 
-
-I M LingaRajjjjjj
